@@ -1,0 +1,2 @@
+# NeuroTecno
+Ejemplo proyecto
