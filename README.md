@@ -1,2 +1,9 @@
+
+<<<<<<< HEAD
 # NeuroTecno
-Ejemplo proyecto
+=======
+# NeuroTecno
+>>>>>>> daaa8cb... Primer commit con README
+
+# NeuroTecno
+
